@@ -1,2 +1,2 @@
 # image_background_removal
-for nice figures without any background!
+for nice figures with white or without any background!
